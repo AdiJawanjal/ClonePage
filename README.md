@@ -28,7 +28,7 @@ The goal of this task is to **deploy a static HTML website using GitHub Pages** 
 
 ## 📸 Screenshots
 
-*[Include screenshots of your website here if required](https://github.com/AdiJawanjal/ClonePage/blob/main/WebApp.png?raw=true)*
+[Include screenshots of your website here if required](https://github.com/AdiJawanjal/ClonePage/blob/main/WebApp.png?raw=true)
 
 
 ## ✅ Outcome

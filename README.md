@@ -26,11 +26,6 @@ The goal of this task is to **deploy a static HTML website using GitHub Pages** 
 [🔗 Click here to view the live site](https://adijawanjal.github.io/ClonePage/)  
 <!-- Replace # with your actual GitHub Pages URL -->
 
-## 📸 Screenshots
-
-[Include screenshots of your website here if required](https://github.com/AdiJawanjal/ClonePage/blob/main/WebApp.png?raw=true)
-
-
 ## ✅ Outcome
 
 Successfully hosted a static website using GitHub Pages and gained hands-on experience in basic deployment and GitHub repository management.
